@@ -5,7 +5,7 @@
 
 ### Я умею работать с
 
-<img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS3 --- <img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML5  
+<p><img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> CSS3     </p><p><img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> HTML5     </p>  
 <img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript  
 <img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React.js  
 <img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js  
