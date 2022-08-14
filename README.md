@@ -22,8 +22,8 @@
 
 📧 E-mail: kliueva95@gmail.com  
 <img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn: https://www.linkedin.com/in/ekaterina-kliueva/  
-💼 Хабр Карьера: https://career.habr.com/kliueva-kath
-<img width="18" height="18" src="./Telegram-logo.svg">Telegram: https://t.me/kath_kli
+💼 Хабр Карьера: https://career.habr.com/kliueva-kath  
+<img width="18" height="18" src="./telegram-logo.png">Telegram: https://t.me/kath_kli
 
 <img width="18" height="18" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" /> CodeWars: https://www.codewars.com/users/Kliueva-Kath
 
@@ -52,7 +52,7 @@ The process of web-developement fully captivated me and brings me a lot of enjoy
 ### You can find me at
 
 📧 E-mail: kliueva95@gmail.com  
-<img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn: https://www.linkedin.com/in/ekaterina-kliueva/
-<img width="18" height="18" src="./Telegram-logo.svg">Telegram: https://t.me/kath_kli
+<img width="18" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> LinkedIn: https://www.linkedin.com/in/ekaterina-kliueva/  
+<img width="18" height="18" src="./telegram-logo.png">Telegram: https://t.me/kath_kli
 
 <img width="18" height="18" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" /> CodeWars: https://www.codewars.com/users/Kliueva-Kath
